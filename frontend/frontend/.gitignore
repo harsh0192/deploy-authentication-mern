@@ -1,0 +1,16 @@
+# Global
+.env
+.DS_Store
+*.log
+
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Build folders (optional, but good to ignore)
+frontend/build/
+backend/dist/
+
+# Editor settings (optional)
+.vscode/
+.idea/
